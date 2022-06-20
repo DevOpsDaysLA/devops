@@ -1,5 +1,7 @@
 # devops 💻
 
+[![test](https://github.com/DevOpsDaysLA/devops/actions/workflows/test.yml/badge.svg)](https://github.com/DevOpsDaysLA/devops/actions/workflows/test.yml) [![Lint](https://github.com/DevOpsDaysLA/devops/actions/workflows/lint.yml/badge.svg)](https://github.com/DevOpsDaysLA/devops/actions/workflows/lint.yml)
+
 A DevOpsDaysLA workshop for building and deploying a wordle clone
 
 ## Running Locally 🔨
