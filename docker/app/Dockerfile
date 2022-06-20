@@ -1,5 +1,6 @@
 FROM node:16.14.0-alpine3.14 AS base
 RUN adduser -D nonroot
+RUN apk add curl
 WORKDIR /app
 COPY package-lock.json package.json ./
 RUN npm install
