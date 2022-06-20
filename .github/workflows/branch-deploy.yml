@@ -44,6 +44,6 @@ jobs:
         if: steps.branch-deploy.outputs.continue == 'true'
         uses: AkhileshNS/heroku-deploy@79ef2ae4ff9b897010907016b268fd0f88561820 # pin@v3.12.12
         with:
-          heroku_app_name: reactle
+          heroku_app_name: reactle-devops
           heroku_api_key: ${{ secrets.HEROKU_API_KEY }}
           heroku_email: ${{ secrets.HEROKU_EMAIL }}
