@@ -1,6 +1,6 @@
 # devops 💻
 
-[![test](https://github.com/DevOpsDaysLA/devops/actions/workflows/test.yml/badge.svg)](https://github.com/DevOpsDaysLA/devops/actions/workflows/test.yml) [![Lint](https://github.com/DevOpsDaysLA/devops/actions/workflows/lint.yml/badge.svg)](https://github.com/DevOpsDaysLA/devops/actions/workflows/lint.yml) [![CodeQL](https://github.com/DevOpsDaysLA/devops/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/DevOpsDaysLA/devops/actions/workflows/codeql-analysis.yml)
+[![test](https://github.com/DevOpsDaysLA/devops/actions/workflows/test.yml/badge.svg)](https://github.com/DevOpsDaysLA/devops/actions/workflows/test.yml) [![Lint](https://github.com/DevOpsDaysLA/devops/actions/workflows/lint.yml/badge.svg)](https://github.com/DevOpsDaysLA/devops/actions/workflows/lint.yml) [![CodeQL](https://github.com/DevOpsDaysLA/devops/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/DevOpsDaysLA/devops/actions/workflows/codeql-analysis.yml) [![ci](https://github.com/DevOpsDaysLA/devops/actions/workflows/ci.yml/badge.svg)](https://github.com/DevOpsDaysLA/devops/actions/workflows/ci.yml)
 
 A DevOpsDaysLA workshop for building and deploying a wordle clone
 
