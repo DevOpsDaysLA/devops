@@ -1,4 +1,5 @@
 # To build the entire stack run 'make run'
+version: '3.4'
 
 services:
   reactle:
