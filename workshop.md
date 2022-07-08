@@ -1,7 +1,9 @@
 # DRAFT 
 # DevOps Days LA Workshop
 DevOps for Fun and Profit
-
+ 
+ Plan > Code > Build > Test > Release > Deploy > Operate > Monitor
+## Overview 
 ## Plan 
 
     Sprint Planning Meeting 
@@ -22,9 +24,17 @@ DevOps for Fun and Profit
         POLL 
         what will we use today? 
     
-## HANDS ON #1
-    - INSTALL PREREQS and TOUR IDE
+## HANDS ON #1: Setup your IDE adn get ready to code! 
 
+1. Install Visual Studio Code 
+- Go to https://code.visualstudio.com/
+Download and install locally
+
+
+APPENDIX: If you want to 
+
+
+2. 
         VSCode
         git
         Skaffold

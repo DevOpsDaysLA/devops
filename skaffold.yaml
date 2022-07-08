@@ -1,0 +1,15 @@
+apiVersion: skaffold/v2beta27
+kind: Config
+metadata:
+  name: devopsdaysla
+build:
+  artifacts:
+  - image: reactle
+    context: src
+    docker:
+      dockerfile: Dockerfile
+deploy:
+  kubectl:
+    manifests:
+    - reactle-deployment.yaml
+    - reactle-service.yaml

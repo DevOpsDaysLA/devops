@@ -10,6 +10,6 @@ FROM base AS prod
 RUN npm run build
 RUN chown -R nonroot:nonroot /app/node_modules/.cache
 
-EXPOSE 3000
+EXPOSE 8080
 USER nonroot
 CMD npm run start
