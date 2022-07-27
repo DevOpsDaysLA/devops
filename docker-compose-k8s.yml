@@ -9,9 +9,9 @@ services:
       context: .
       dockerfile: ./src/Dockerfile
     ports:
-      - 8081:8081
+      - 8999:3000
     healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:8081"]
+      test: ["CMD", "curl", "-f", "http://localhost/8999"]
       interval: 30s
       timeout: 5s
       retries: 3
